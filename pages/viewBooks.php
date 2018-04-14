@@ -1,4 +1,11 @@
 <?php
+/**
+ * This file will be able to view all books in database and will be displayed in a
+ * list-group
+ *
+ * @author Mershelle Rivera
+ * @version GIT: https://github.com/himynameismoose/Bookshelf1
+ */
 
 require('../database/db.php');
 

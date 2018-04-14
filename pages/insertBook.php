@@ -3,7 +3,7 @@
  * This is a web file of a form to insert a book to the book shelf.
  *
  * @author Mershelle Rivera
- * @version GIT: https://github.com/himynameismoose/Bookshelf1.git
+ * @version GIT: https://github.com/himynameismoose/Bookshelf1
  */
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
